@@ -1,0 +1,7 @@
+# No external dependencies required.
+# This project uses only the Python Standard Library:
+# - subprocess
+# - csv
+# - os
+# - time
+# - datetime

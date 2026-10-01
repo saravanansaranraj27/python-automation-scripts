@@ -1,0 +1,15 @@
+# Generated CSV Logs
+network_log_*.csv
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+
+# OS & IDE Artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
